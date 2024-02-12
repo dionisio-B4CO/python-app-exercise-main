@@ -1,0 +1,6 @@
+Flask
+flasgger
+Werkzeug
+requests
+#gunicorn
+#pytest
